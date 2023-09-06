@@ -1,2 +1,2 @@
 # jonapcsit
-#szia mindenki
+# szia mindenki
