@@ -10,3 +10,4 @@ martin szeretlek
 hrbrhb
 # jonapcsittanarur
 # martin
+# bandó
