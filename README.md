@@ -7,7 +7,7 @@ c
 d
 a
 martin szeretlek
-hrbrhb
+hrbrhbgagnam
 # jonapcsittanarur
 # martin
 # bandó
