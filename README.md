@@ -7,9 +7,8 @@ c
 d
 a
 martin szeretlek
-hrbrhbgagnam
 # jonapcsittanarur
 # martin
 # bandó
 # fradiididid haajdmhmmammhmh 
-
+# morbius one
