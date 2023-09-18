@@ -12,3 +12,4 @@ martin szeretlek
 # bandó
 # fradiididid haajdmhmmammhmh 
 # morbius one
+# martinka
