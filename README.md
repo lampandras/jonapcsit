@@ -16,3 +16,4 @@ martin szeretlek
 # kitap
 https://turristvanszakkozepisk-my.sharepoint.com/:p:/g/personal/basamartin_turr_hu/EVx9bp0fvlRAk6-Rhh54G0UBNZ7iQcEz1r4P-gHvJVcgPQ?e=TuWl4n
 # engag
+# eposzi ppt blutooth devájsz is konnected suxxesfully
