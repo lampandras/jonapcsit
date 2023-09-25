@@ -18,3 +18,4 @@ https://turristvanszakkozepisk-my.sharepoint.com/:p:/g/personal/basamartin_turr_
 # engag
 # eposzi ppt blutooth devájsz is konnected suxxesfully
 # epoxszi
+# ganga banga
